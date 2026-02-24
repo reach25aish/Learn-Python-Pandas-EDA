@@ -1,0 +1,28 @@
+Data Analysis:
+
+Data analysis is the act of turning raw, messy data into useful insights by cleaning the data up, transforming it, manipulating it, and inspecting it.
+
+Pandas:
+
+Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of python programming language.
+
+Creating data¶
+There are two core objects in pandas: the DataFrame and the Series.
+
+DataFrame
+A DataFrame is a table. It contains an array of individual entries, each of which has a certain value. Each entry corresponds to a row (or record) and a column.
+
+Series¶
+A Series, by contrast, is a sequence of data values. If a DataFrame is a table, a Series is a list. And in fact you can create one with nothing more than a list:
+Practice Topics
+
+read_csv, head(), tail(), info()
+selecting columns/rows (loc, iloc)
+filtering
+sorting
+groupby + aggregation
+merge/join
+pivot tables
+missing values
+duplicates
+
