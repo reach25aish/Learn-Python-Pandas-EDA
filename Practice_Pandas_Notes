@@ -59,12 +59,12 @@ shows the last five rows
 info()
 ********
 wine_reviews.info()
-shows the column name and data types of the data frames.
+shows the data structure of the dataframe i.e column name and data types of the data frames.
 
 
 Practice Topics
 
-read_csv, head(), tail(), info()
+
 selecting columns/rows (loc, iloc)
 filtering
 sorting
